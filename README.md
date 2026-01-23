@@ -3,11 +3,11 @@
 <div align="center">
 
 ![Haskell](https://img.shields.io/badge/Haskell-GHC%209.4+-5D4F85?style=for-the-badge&logo=haskell)
-![Security](https://img.shields.io/badge/Security-Hardened-red?style=for-the-badge&logo=shield)
+![Security](https://img.shields.io/badge/Security-Secure-red?style=for-the-badge&logo=shield)
 ![Type Safety](https://img.shields.io/badge/Type%20Safety-Strong-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Proprietary-purple?style=for-the-badge)
 
-**Hardened Passive Network Traffic Analyzer**
+**Secure Passive Network Traffic Analyzer**
 
 *Pure functional design with strong type safety and immutable data structures*
 
@@ -19,7 +19,7 @@
 
 ## 🎯 Overview
 
-NullSec NetSeer is a hardened passive network traffic analyzer written in Haskell. It leverages the power of pure functional programming to provide mathematically provable security guarantees through strong typing and immutability.
+NullSec NetSeer is a Secure passive network traffic analyzer written in Haskell. It leverages the power of pure functional programming to provide mathematically provable security guarantees through strong typing and immutability.
 
 ## ✨ Features
 
@@ -30,7 +30,7 @@ NullSec NetSeer is a hardened passive network traffic analyzer written in Haskel
 - **♻️ Immutable** - No side effects in core analysis logic
 - **📝 Reports** - Comprehensive traffic reports
 
-## 🛡️ Security Hardening
+## 🛡️ Security Security
 
 ```
 ┌─────────────────────────────────────────────┐
