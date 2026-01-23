@@ -30,7 +30,7 @@ NullSec NetSeer is a Secure passive network traffic analyzer written in Haskell.
 - **♻️ Immutable** - No side effects in core analysis logic
 - **📝 Reports** - Comprehensive traffic reports
 
-## 🛡️ Security Security
+## 🛡️ Security Features
 
 ```
 ┌─────────────────────────────────────────────┐
